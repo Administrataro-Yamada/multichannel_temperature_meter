@@ -1,0 +1,8 @@
+memory.c:19:17:_Flash_Erase	1
+memory.c:32:13:Memory_BackUp	2
+memory.c:43:13:Memory_Load	2
+memory.c:54:9:Memory_Get_Slave_Address	1
+memory.c:58:9:Memory_Get_Baudrate	1
+memory.c:61:6:Memory_Set_Backup_Request	1
+memory.c:65:6:Memory_Cyclic	1
+memory.c:71:6:Global_Init	1

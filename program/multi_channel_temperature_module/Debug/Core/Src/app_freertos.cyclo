@@ -1,0 +1,4 @@
+app_freertos.c:70:6:MX_FREERTOS_Init	1
+app_freertos.c:117:6:Analog_Task	1
+app_freertos.c:135:6:Communication_Task	1
+app_freertos.c:153:6:Memory_Task	1

@@ -1,0 +1,11 @@
+modbus.c:23:6:MODBUS_Set_ErrorCode	1
+modbus.c:26:12:MODBUS_Get_ErrorCode	1
+modbus.c:30:6:MODBUS_Clear_ErrorCode	1
+modbus.c:37:17:MODBUS_CRC	4
+modbus.c:57:9:MODBUS_Check_Data_Get_Length	17
+modbus.c:124:13:MODBUS_Response_Error_Message	2
+modbus.c:213:13:MODBUS_Branch_Process_0x04	9
+modbus.c:366:13:MODBUS_Branch_Process_0x03	9
+modbus.c:429:13:MODBUS_Branch_Process_0x10	14
+modbus.c:513:6:MODBUS_Branch_Process	6
+modbus.c:538:6:MODBUS_Init	1

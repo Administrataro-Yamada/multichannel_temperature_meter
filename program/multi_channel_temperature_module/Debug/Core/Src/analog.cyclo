@@ -1,0 +1,10 @@
+analog.c:25:13:Analog_Averaged_ADC_Process	3
+analog.c:46:16:Analog_Convert_To_Voltage	1
+analog.c:50:16:Analog_Convert_To_Vdd	1
+analog.c:55:16:Analog_Convert_To_Vref	1
+analog.c:60:16:Analog_Get_Thermocouple_Type_K	1
+analog.c:64:16:Analog_Convert_To_Temperature	1
+analog.c:72:16:Analog_Convert_To_Reference	1
+analog.c:77:16:Analog_Get_Temperature	4
+analog.c:99:6:Analog_Process_Cyclic	1
+analog.c:105:6:Analog_Init	1

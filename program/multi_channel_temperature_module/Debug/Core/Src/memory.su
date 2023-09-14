@@ -1,0 +1,8 @@
+../Core/Src/memory.c:19:17:_Flash_Erase	32	static
+../Core/Src/memory.c:32:13:Memory_BackUp	16	static
+../Core/Src/memory.c:43:13:Memory_Load	16	static
+../Core/Src/memory.c:54:9:Memory_Get_Slave_Address	8	static
+../Core/Src/memory.c:58:9:Memory_Get_Baudrate	8	static
+../Core/Src/memory.c:61:6:Memory_Set_Backup_Request	8	static
+../Core/Src/memory.c:65:6:Memory_Cyclic	8	static
+../Core/Src/memory.c:71:6:Global_Init	8	static

@@ -1,0 +1,10 @@
+../Core/Src/analog.c:25:13:Analog_Averaged_ADC_Process	32	static
+../Core/Src/analog.c:46:16:Analog_Convert_To_Voltage	16	static
+../Core/Src/analog.c:50:16:Analog_Convert_To_Vdd	24	static
+../Core/Src/analog.c:55:16:Analog_Convert_To_Vref	32	static
+../Core/Src/analog.c:60:16:Analog_Get_Thermocouple_Type_K	24	static
+../Core/Src/analog.c:64:16:Analog_Convert_To_Temperature	48	static
+../Core/Src/analog.c:72:16:Analog_Convert_To_Reference	32	static
+../Core/Src/analog.c:77:16:Analog_Get_Temperature	32	static
+../Core/Src/analog.c:99:6:Analog_Process_Cyclic	8	static
+../Core/Src/analog.c:105:6:Analog_Init	16	static

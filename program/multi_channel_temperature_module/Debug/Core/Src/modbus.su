@@ -1,0 +1,11 @@
+../Core/Src/modbus.c:23:6:MODBUS_Set_ErrorCode	8	static
+../Core/Src/modbus.c:26:12:MODBUS_Get_ErrorCode	8	static
+../Core/Src/modbus.c:30:6:MODBUS_Clear_ErrorCode	8	static
+../Core/Src/modbus.c:37:17:MODBUS_CRC	32	static
+../Core/Src/modbus.c:57:9:MODBUS_Check_Data_Get_Length	32	static
+../Core/Src/modbus.c:124:13:MODBUS_Response_Error_Message	24	static
+../Core/Src/modbus.c:213:13:MODBUS_Branch_Process_0x04	56	static
+../Core/Src/modbus.c:366:13:MODBUS_Branch_Process_0x03	56	static
+../Core/Src/modbus.c:429:13:MODBUS_Branch_Process_0x10	56	static
+../Core/Src/modbus.c:513:6:MODBUS_Branch_Process	32	static
+../Core/Src/modbus.c:538:6:MODBUS_Init	16	static

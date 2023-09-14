@@ -1,0 +1,11 @@
+../Core/Src/communication.c:26:6:Communication_Set_SlaveAddress	16	static
+../Core/Src/communication.c:30:9:Communication_Get_SlaveAddress	8	static
+../Core/Src/communication.c:39:9:Communication_Get_RxBuffer_Count	8	static
+../Core/Src/communication.c:43:6:Communication_Set_RxBuffer_Count	16	static
+../Core/Src/communication.c:47:9:Communication_Get_UART_Interrupt_Status	8	static
+../Core/Src/communication.c:50:6:Communication_Set_UART_Interrupt_Status	16	static
+../Core/Src/communication.c:54:12:Communication_Set_ErrorCode	16	static
+../Core/Src/communication.c:60:6:Communication_Get_Array_From_RingBuffer	24	static
+../Core/Src/communication.c:71:6:Communication_Clear_Array_From_RingBuffer	24	static
+../Core/Src/communication.c:84:6:Communication_Process_Cyclic	16	static
+../Core/Src/communication.c:144:6:Communication_Init	24	static
